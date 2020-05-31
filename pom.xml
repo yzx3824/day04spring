@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.yzx</groupId>
+    <artifactId>day04spring</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>day04spring_01jdbctemplate</module>
+        <module>day04spring_01jdbctemplate02</module>
+        <module>day04spring_01jdbctemplate03</module>
+        <module>day04spring_02account_aoptx_xml</module>
+        <module>day04spring_03account_aoptx_anno</module>
+        <module>day04spring_04tx</module>
+        <module>day04spring_09jdk8</module>
+        <module>day04spring_05tx_xml</module>
+        <module>day04spring_06tx_anno</module>
+        <module>day04spring_07anno_tx_withoutxml</module>
+        <module>day04spring_08account_tx</module>
+    </modules>
+
+
+</project>
